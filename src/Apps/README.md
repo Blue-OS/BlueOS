@@ -1,4 +1,2 @@
  Current App Versions:
- - nvidia geforce experience - ?
- - google chrome - ?
- - 7-zip - ?
+ - 7-zip - 22.01
